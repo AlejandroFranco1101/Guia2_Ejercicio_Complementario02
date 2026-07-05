@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MiCalculadora</string>
+    <string name="titulo_app">MiCalculadora</string>
+    <string name="hint_numero">Ingrese un numero</string>
+    <string name="resultado_inicial">Resultado</string>
+    <string name="btn_sumar">Sumar</string>
+    <string name="btn_restar">Restar</string>
+    <string name="btn_multiplicar">Multiplicar</string>
+    <string name="btn_dividir">Dividir</string>
+    <string name="btn_porcentaje">Porcentaje</string>
+    <string name="btn_cuadrado">Cuadrado</string>
+    <string name="btn_raiz">Raiz</string>
+    <string name="btn_limpiar">Limpiar todo</string>
+    <string name="titulo_historial">Historial</string>
+    <string name="mensaje_division_cero">No se puede dividir entre cero</string>
+    <string name="mensaje_ingrese_numero">Ingrese un numero</string>
+    <string name="mensaje_raiz_negativa">No se puede calcular raiz negativa</string>
+</resources>
